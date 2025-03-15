@@ -10,8 +10,6 @@ This project is a machine learning-based heart disease prediction model implemen
 - Hyperparameter tuning for optimal results
 - Predictions on new patient data
 
-## 📂 Dataset
-The dataset used in this project is from the **[UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease)** or a similar publicly available dataset.
 
 
 
