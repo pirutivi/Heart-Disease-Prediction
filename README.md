@@ -1,1 +1,17 @@
-# Heart-Disease-Prediction
+# Heart Disease Prediction
+
+This project is a machine learning-based heart disease prediction model implemented in Google Colab. It uses various classification algorithms to predict whether a person is at risk of heart disease based on medical and lifestyle factors.
+
+## 📌 Features
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA).
+- Model training .
+- Performance evaluation with accuracy, precision, recall, and F1-score
+- Hyperparameter tuning for optimal results
+- Predictions on new patient data
+
+## 📂 Dataset
+The dataset used in this project is from the **[UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease)** or a similar publicly available dataset.
+
+
+
